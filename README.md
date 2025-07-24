@@ -31,25 +31,37 @@
 
 ### Activity
 -------
-<h3>🎮 Hollow Knight</h3>
-<a href="https://youtu.be/e4-QlHvphks" target="_blank">
-  <img src="http://img.youtube.com/vi/e4-QlHvphks/0.jpg" width="300" alt="Hollow Knight Thumbnail"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <h3>🎮 Hollow Knight</h3>
+      <a href="https://youtu.be/e4-QlHvphks" target="_blank">
+        <img src="http://img.youtube.com/vi/e4-QlHvphks/0.jpg" width="300" alt="Hollow Knight Thumbnail"/>
+      </a>
+    </td>
+    <td align="center">
+      <h3>🧟 Biohazard RE:2</h3>
+      <a href="https://youtu.be/7M6RC8duxqU" target="_blank">
+        <img src="http://img.youtube.com/vi/7M6RC8duxqU/0.jpg" width="300" alt="Biohazard RE:2 Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🌌 Final Fantasy 13</h3>
+      <a href="https://youtu.be/jIHJs1a75sk" target="_blank">
+        <img src="http://img.youtube.com/vi/jIHJs1a75sk/0.jpg" width="300" alt="Final Fantasy 13 Thumbnail"/>
+      </a>
+    </td>
+    <td align="center">
+      <h3>🐑 Cult of the Lamb</h3>
+      <a href="https://youtu.be/5c6qPoTh52I" target="_blank">
+        <img src="http://img.youtube.com/vi/5c6qPoTh52I/0.jpg" width="300" alt="Cult of the Lamb Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h3>🧟 Biohazard RE:2</h3>
-<a href="https://youtu.be/7M6RC8duxqU" target="_blank">
-  <img src="http://img.youtube.com/vi/7M6RC8duxqU/0.jpg" width="300" alt="Biohazard RE:2 Thumbnail"/>
-</a>
-
-<h3>🌌 Final Fantasy 13</h3>
-<a href="https://youtu.be/jIHJs1a75sk" target="_blank">
-  <img src="http://img.youtube.com/vi/jIHJs1a75sk/0.jpg" width="300" alt="Final Fantasy 13 Thumbnail"/>
-</a>
-
-<h3>🐑 Cult of the Lamb</h3>
-<a href="https://youtu.be/5c6qPoTh52I" target="_blank">
-  <img src="http://img.youtube.com/vi/5c6qPoTh52I/0.jpg" width="300" alt="Cult of the Lamb Thumbnail"/>
-</a>
 
 <h3>🍁 Autumn Survive</h3>
 <a href="https://youtu.be/2R_G74LbD6w" target="_blank">

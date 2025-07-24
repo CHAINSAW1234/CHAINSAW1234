@@ -5,6 +5,8 @@
 ![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C52F?style=for-the-badge&logo=python&logoColor=306998)
+![HLSL](https://img.shields.io/badge/HLSL-6A5ACD?style=for-the-badge&logoColor=white)
+
 
 
 

@@ -44,7 +44,7 @@
 
 ### Stats
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=stog5015)](https://solved.ac/stog5015)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAINSAW1234&theme=Monokai&show_icons=true)
+![CHAINSAW1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAINSAW1234&theme=monokai&show_icons=true)
 
 
 <!--

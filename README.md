@@ -46,6 +46,31 @@
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=stog5015)](https://solved.ac/stog5015)
 ![CHAINSAW1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAINSAW1234&theme=monokai&show_icons=true)
 
+### School
+- 부산대학교 정보컴퓨터공학과
+
+### Activity
+
+
+### Study
+- 쥬신 게임아카데미 (2023.07 ~ 2024.07)
+- GSTAR2024
+- NDC2025
+
+### Books I read
+- Effective C++
+- Effective Modern C++
+- 전문가를 위한 C++
+- OpenGL ES를 이용한 3차원 컴퓨터 그래픽스 입문
+- 뇌를 자극하는 윈도우즈 시스템 프로그래밍
+- C# 교과서
+
+### Interest
+- Graphic
+- Unity
+- Unreal
+
+### Contact
 
 <!--
 **CHAINSAW1234/CHAINSAW1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

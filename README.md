@@ -1,9 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyeonJin's%20Github&fontSize=90)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=HyeonJin's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=CHAINSAW1234&bg_color=180,ff0000,00000000&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAINSAW1234&layout=compact&bg_color=180,ff0000,00000000&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
+    
+
+
+
+
 
 ### Language
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=Unity&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-6A5ACD?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C52F?style=for-the-badge&logo=python&logoColor=306998)
 
@@ -12,6 +33,10 @@
 - Unity   - for game programming, college assignment, graduation assignment.
 - HLSL    - for DirectX Shader
 - Python  - DBMS
+
+### FrameWork
+
+![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=Unity&logoColor=white)
 
 
 <!--

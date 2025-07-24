@@ -43,7 +43,8 @@
 - Unity   - for game programming, college assignment, graduation assignment.
 
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAINSAW1234&theme=Monkai&show_icons=true)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=stog5015)](https://solved.ac/stog5015)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAINSAW1234&theme=Monokai&show_icons=true)
 
 
 <!--

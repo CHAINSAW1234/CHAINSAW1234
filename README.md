@@ -54,7 +54,13 @@
 - 부산대학교 정보컴퓨터공학과
 
 ### Activity
-[![Video Label](http://img.youtube.com/vi/e4-QlHvphks/0.jpg)](https://youtu.be/e4-QlHvphks)
+[![Hollow Knight](http://img.youtube.com/vi/e4-QlHvphks/0.jpg)](https://youtu.be/e4-QlHvphks)
+[![Biohazard RE:2](http://img.youtube.com/vi/7M6RC8duxqU/0.jpg)](https://youtu.be/7M6RC8duxqU)
+[![Final Fantasy 13](http://img.youtube.com/vi/jIHJs1a75sk/0.jpg)](https://youtu.be/jIHJs1a75sk)
+[![Cult of the Lamb](http://img.youtube.com/vi/5c6qPoTh52I/0.jpg)](https://youtu.be/5c6qPoTh52I)
+[![Autumn Survive](http://img.youtube.com/vi/2R_G74LbD6w/0.jpg)](https://youtu.be/2R_G74LbD6w)
+[![Revolution Of Weapon](http://img.youtube.com/vi/HRiqH8KW7WI/0.jpg)](https://youtu.be/HRiqH8KW7WI)
+
 -------
 
 

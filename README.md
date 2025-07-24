@@ -51,6 +51,10 @@
   <img src="http://img.youtube.com/vi/5c6qPoTh52I/0.jpg" width="300" alt="Cult of the Lamb Thumbnail"/>
 </a>
 
+<h3>🍁 Autumn Survive</h3>
+<a href="https://youtu.be/2R_G74LbD6w" target="_blank">
+  <img src="http://img.youtube.com/vi/2R_G74LbD6w/0.jpg" width="300" alt="Autumn Survive Thumbnail"/>
+</a>
 <a href="https://play.google.com/store/apps/details?id=com.stgo5015Company.AutumnSurvive&hl=ko" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" width="200"/>
 </a>

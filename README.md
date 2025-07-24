@@ -26,17 +26,24 @@
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-6A5ACD?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C52F?style=for-the-badge&logo=python&logoColor=306998)
 
 - C++     - for algorithms and game programming. Solved over 300 problems. Make self game engine framework.
 - C#      - for Unity Engine.
-- Unity   - for game programming, college assignment, graduation assignment.
 - HLSL    - for DirectX Shader
 - Python  - DBMS
 
-### FrameWork
-
+### FrameWork And Tool
 ![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=Unity&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- Unity   - for game programming, college assignment, graduation assignment.
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAINSAW1234&theme=Monkai&show_icons=true)
 
 
 <!--

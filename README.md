@@ -54,6 +54,7 @@
 <h3>🍁 Autumn Survive</h3>
 <a href="https://youtu.be/2R_G74LbD6w" target="_blank">
   <img src="http://img.youtube.com/vi/2R_G74LbD6w/0.jpg" width="300" alt="Autumn Survive Thumbnail"/>
+  [(Google Play)](https://play.google.com/store/apps/details?id=com.stgo5015Company.AutumnSurvive&hl=ko)
 </a>
 
 <h3>🔫 Revolution Of Weapon</h3>

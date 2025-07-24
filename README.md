@@ -1,27 +1,3 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=HyeonJin's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=CHAINSAW1234&bg_color=180,ff0000,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAINSAW1234&layout=compact&bg_color=180,ff0000,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
-    
-
-
-
-
-
 ### Language
 -------
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -54,6 +30,7 @@
 - 부산대학교 정보컴퓨터공학과
 
 ### Activity
+-------
 <h3>🎮 Hollow Knight</h3>
 <a href="https://youtu.be/e4-QlHvphks" target="_blank">
   <img src="http://img.youtube.com/vi/e4-QlHvphks/0.jpg" width="300" alt="Hollow Knight Thumbnail"/>
@@ -84,10 +61,6 @@
   <img src="http://img.youtube.com/vi/HRiqH8KW7WI/0.jpg" width="300" alt="Revolution Of Weapon Thumbnail"/>
 </a>
 
-
--------
-
-
 ### Study
 -------
 - 쥬신 게임아카데미 (2023.07 ~ 2024.07)
@@ -111,6 +84,7 @@
 
 ### Contact
 -------
+✉️ Email: [stgo5015@naver.com](stgo5015@naver.com)
 
 <!--
 **CHAINSAW1234/CHAINSAW1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

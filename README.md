@@ -23,6 +23,7 @@
 
 
 ### Language
+-------
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-6A5ACD?style=for-the-badge&logoColor=white)
@@ -35,6 +36,7 @@
 - Python  - DBMS
 
 ### FrameWork And Tool
+-------
 ![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=Unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -43,21 +45,26 @@
 - Unity   - for game programming, college assignment, graduation assignment.
 
 ### Stats
+-------
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=stog5015)](https://solved.ac/stog5015)
 ![CHAINSAW1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHAINSAW1234&theme=monokai&show_icons=true)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAINSAW1234&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 ### School
+-------
 - 부산대학교 정보컴퓨터공학과
 
 ### Activity
+-------
 
 
 ### Study
+-------
 - 쥬신 게임아카데미 (2023.07 ~ 2024.07)
 - GSTAR2024
 - NDC2025
 
 ### Books I read
+-------
 - Effective C++
 - Effective Modern C++
 - 전문가를 위한 C++
@@ -66,11 +73,13 @@
 - C# 교과서
 
 ### Interest
+-------
 - Graphic
 - Unity
 - Unreal
 
 ### Contact
+-------
 
 <!--
 **CHAINSAW1234/CHAINSAW1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

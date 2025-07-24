@@ -54,6 +54,7 @@
 - 부산대학교 정보컴퓨터공학과
 
 ### Activity
+[![Video Label](http://img.youtube.com/vi/e4-QlHvphks/0.jpg)](https://youtu.be/e4-QlHvphks)
 -------
 
 
